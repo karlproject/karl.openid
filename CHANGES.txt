@@ -1,0 +1,8 @@
+``karl.openid2`` Changelog
+==========================
+
+Unreleased
+----------
+
+- Initial version.
+
